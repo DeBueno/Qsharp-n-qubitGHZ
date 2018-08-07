@@ -39,7 +39,7 @@
 					CNOT(qubits[index], qubits[index+1]);
 				}
 				//check measurements
-				for(index in 0..2..count-2)
+				for(index in 0..count-2)
 				{
 					if(M(qubits[index]) != M(qubits[index+1]))
 					{
