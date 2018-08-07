@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\GHZ\GHZ\bin\Debug\netcoreapp2.0\GHZ.deps.json
+C:\Users\Daniel\source\repos\GHZ\GHZ\bin\Debug\netcoreapp2.0\GHZ.runtimeconfig.json
+C:\Users\Daniel\source\repos\GHZ\GHZ\bin\Debug\netcoreapp2.0\GHZ.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\GHZ\GHZ\bin\Debug\netcoreapp2.0\GHZ.dll
+C:\Users\Daniel\source\repos\GHZ\GHZ\bin\Debug\netcoreapp2.0\GHZ.pdb
+C:\Users\Daniel\source\repos\GHZ\GHZ\obj\Debug\netcoreapp2.0\GHZ.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\GHZ\GHZ\obj\Debug\netcoreapp2.0\GHZ.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\GHZ\GHZ\obj\Debug\netcoreapp2.0\GHZ.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\GHZ\GHZ\obj\Debug\netcoreapp2.0\GHZ.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\GHZ\GHZ\obj\Debug\netcoreapp2.0\GHZ.dll
+C:\Users\Daniel\source\repos\GHZ\GHZ\obj\Debug\netcoreapp2.0\GHZ.pdb
